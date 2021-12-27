@@ -1,0 +1,7 @@
+dependencygraph.content:
+  path: '/admin/config/development/dependencygraph'
+  defaults:
+    _title: 'Dependency graph'
+    _controller: '\Drupal\dependencygraph\Controller\DependencyGraph::content'
+  requirements:
+    _permission: 'administer site configuration'

@@ -1,0 +1,6 @@
+dependencygraph.admin:
+  title: 'Dependency graph'
+  description: 'Drupal core dependency graph.'
+  parent: system.admin_config_development
+  route_name: dependencygraph.content
+  weight: 100

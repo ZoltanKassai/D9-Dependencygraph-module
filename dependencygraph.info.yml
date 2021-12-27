@@ -1,0 +1,6 @@
+type: module
+name: Dependency graph
+description: "A module that can be used to display Drupal core's dependency graph."
+package: LH
+core_version_requirement: ^8.8 || ^9
+php: 7.2
